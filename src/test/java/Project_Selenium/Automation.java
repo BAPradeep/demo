@@ -17,6 +17,7 @@ public class Automation {
 		// chrome
 	//	WebDriverManager.chromedriver().setup();
 	//	WebDriver demo = new ChromeDriver();
+		//demogit
 		
 		//Edge
 		WebDriverManager.edgedriver().setup();
